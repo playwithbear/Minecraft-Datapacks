@@ -1,0 +1,22 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "RRQ",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "djb:stone"
+        },
+        "R": {
+            "item": "minecraft:redstone"
+        },
+		"Q": {
+			"item": "minecraft:quartz"
+    },
+    "result": {
+        "item": "minecraft:observer",
+        "count": 1
+    }
+}

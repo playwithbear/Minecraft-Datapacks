@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": {
+        "item": "minecraft:smooth_sandstone"
+    },
+    "result": "minecraft:glass",
+    "experience": 0.1,
+    "cookingtime": 100
+}
